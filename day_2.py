@@ -13,3 +13,4 @@ if("A"<=c<='Z'or 'a'<=c<='z'):
     print('Alphabet')
 else:
     print("not an alphabet")
+#iam running lte
